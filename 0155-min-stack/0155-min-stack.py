@@ -1,25 +1,20 @@
 class MinStack:
     
     def __init__(self):
-        global a
-        a=list()
         global b
         b=list()
         global c
         c=list()
 
     def push(self, val: int) -> None:
-        a.append(val)
         b.append(val)
     def pop(self) -> None:
-        del a[-1]
         b.pop(-1)
-        print(b,"\n",a)
     def top(self) -> int:
         return b[-1]
 
     def getMin(self) -> int:
-        c=sorted(a)
+        c=sorted(b)
         return c[0]
 
 
