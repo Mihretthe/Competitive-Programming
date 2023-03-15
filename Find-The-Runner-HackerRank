@@ -1,0 +1,11 @@
+if __name__ == '__main__':
+    n = int(input())
+    arr = map(int, input().split())
+    x=list(arr)
+    y=list(list())
+    for i in range(n):
+       y.append((x[i],i)) 
+    d=dict(y)
+    x=list(d)
+    x.sort()
+    print(x[-2])
