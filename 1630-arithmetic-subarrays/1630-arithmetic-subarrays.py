@@ -15,7 +15,5 @@ class Solution:
                         break
                     elif b[i][j+1]-b[i][j]==x and j==len(b[i])-2:
                         a.append(True)
-                        
-        print(b)
         return a
         
