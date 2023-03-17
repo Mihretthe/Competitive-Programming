@@ -23,7 +23,6 @@ class Solution:
         n2=int(v)
         z=n+n2
         f=str(z)
-        # f=f[::-1]
         x=list()
         x.extend(f)
         i=0
@@ -34,11 +33,4 @@ class Solution:
             node=ListNode(x[i],head.next)
             head.next=node
         return head
-        # while i < len(x):
-        #     node = ListNode(0)
-        #     if a:
-        #         a.next = node
-        #         a.val=int(x[i])
-        #         a= node
-        #     i+= 1
-        #     return a.next
+        
