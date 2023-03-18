@@ -1,7 +1,6 @@
 class Solution:
     def maxOperations(self, nums: List[int], k: int) -> int:
         nums.sort()
-        print(nums)
         c=0
         l=0
         r=len(nums)-1
