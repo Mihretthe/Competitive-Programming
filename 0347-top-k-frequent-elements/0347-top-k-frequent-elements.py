@@ -8,7 +8,6 @@ class Solution:
             c.append(list((nums.count(nums[i]),nums[i])))
             i+=nums.count(nums[i])
         c.sort(reverse=True)
-        print(c)
         for i in range(k):
             a.append(c[i][1])
         return a
