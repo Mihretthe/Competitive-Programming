@@ -1,0 +1,12 @@
+n=int(input())
+a=[]
+z="codeforces"
+for i in range(n):
+    s=input()
+    c=0
+    for j in range(len(s)):
+        if z[j]!=s[j]:
+            c+=1
+    a.append(c)
+for i in a:
+    print(i)
