@@ -1,0 +1,15 @@
+A=list(map(int,input().split()))
+n=int(input())
+B=[]
+c=True
+for i in range(n):
+    B.append(list(map(int,input().split())))
+for i in B:
+    x=[j for j in i if j not in A]
+    if len(x)>0 or len(x)==len(A):
+        c=False
+        break
+if c :
+    print("True")
+else:
+    print("False")
