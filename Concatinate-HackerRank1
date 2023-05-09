@@ -1,0 +1,10 @@
+import numpy
+n,m,p=map(int,input().split())
+a=[]
+for i in range(n):
+    a.append("["+input()+"]")
+for i in range(m):
+    a.append("["+input()+"]")
+# print(a)
+a="["+"\n ".join(a)+"]"
+print(a)
