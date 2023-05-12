@@ -1,0 +1,5 @@
+import cmath
+import math
+a=complex(input())
+print(math.sqrt((a.real**2)+(a.imag**2)))
+print(cmath.phase(a))
