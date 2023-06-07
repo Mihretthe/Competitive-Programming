@@ -11,7 +11,6 @@ class Solution:
         s="0"*(n-len(b))
         b=s+b
         count=0
-        print("a b c count")
         for i in range(n):
             if a[i]==b[i]==c[i] or a[i]=="1" and b[i]=="0" and c[i]=="1" or a[i]=="0" and b[i]=="1" and c[i]=="1":
                 continue
@@ -23,5 +22,4 @@ class Solution:
                 count+=1
             else:
                 count+=1
-            print(a[i],b[i],c[i],count)
         return count
