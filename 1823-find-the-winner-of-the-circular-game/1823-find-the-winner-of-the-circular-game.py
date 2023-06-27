@@ -9,7 +9,6 @@ class Solution:
             c.remove(c[j])
             i=j
             j=i+k-1
-            if i==0:
-                j=k-1
+            
         return c[0]
         
