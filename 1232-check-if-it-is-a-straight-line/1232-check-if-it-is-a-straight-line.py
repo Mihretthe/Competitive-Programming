@@ -1,17 +1,12 @@
 class Solution:
     def checkStraightLine(self, coordinates: List[List[int]]) -> bool:
-        n = len(coordinates)
-        if n <= 2:
+        if len(coordinates)<=2:
             return True
-        x1, y1 = coordinates[0]
-        x2, y2 = coordinates[1]
-        slope = (y2 - y1) / (x2 - x1) if x2 != x1 else float('inf')
-
-        for i in range(2, n):
-            x1, y1 = coordinates[i-1]
-            x2, y2 = coordinates[i]
-            new_slope = (y2 - y1) / (x2 - x1) if x2 != x1 else float('inf')
-            if new_slope != slope:
-                return False
-
-        return True
+        a=set()
+        for i in range(len(coordinates)-1):
+            if (coordinates[i+1][0]-coordinates[i][0])!=0:
+                a.add((coordinates[i+1][1]-coordinates[i][1])/(coordinates[i+1][0]-coordinates[i][0]))
+            else:
+                a.add("_")
+        return len(a)==1
+        
