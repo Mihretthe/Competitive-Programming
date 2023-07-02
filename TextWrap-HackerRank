@@ -1,0 +1,6 @@
+def wrap(s, max_width):
+    l=max_width
+    while l<len(s):
+        s=s[:l]+"\n"+s[l:]
+        l+=max_width+1
+    return s
