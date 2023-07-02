@@ -1,17 +1,12 @@
 class Solution:
-    def dividePlayers(self, skill: List[int]) -> int:
-        """
-        skill integer array even length
-                
-        """
+    def dividePlayers(self, skill: List[int]) -> int:      
         l=0
         r=len(skill)-1
-        a=[]
-        checker=set()
+        a=[]        
         skill.sort()
+        checker=(skill[l]+skill[r])
         while l<r:
-            checker.add(skill[l]+skill[r])
-            if len(checker)>1:
+            if checker!=skill[l]+skill[r]:
                 return -1
             a.append([skill[l],skill[r]])
             l+=1
