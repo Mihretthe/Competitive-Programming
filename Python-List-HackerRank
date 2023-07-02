@@ -1,0 +1,26 @@
+if __name__ == '__main__':
+    N = int(input())
+    line=list()
+    _=0
+    while _<N:
+        line.append(input())
+        _+=1
+    i=0
+    a=list()
+    while i<N:
+        b=line[i].split(" ")
+        if "insert" in b:
+            a.insert(int(b[1]),int(b[2]))
+        elif "print" in b:
+            print(a)
+        elif "remove" in b:
+            a.remove(int(b[1]))
+        elif "append" in b:
+            a.append(int(b[1]))
+        elif "sort" in b:
+            a.sort()
+        elif "pop" in b:
+            a.pop(-1)
+        elif "reverse" in b:
+            a=a[::-1]
+        i+=1
