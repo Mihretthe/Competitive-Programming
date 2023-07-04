@@ -1,0 +1,12 @@
+for i in range(int(input())):
+    n=int(input())
+    a=list(map(int,input().split()))
+    a.sort()
+    i=0
+    j=min(len(a)-1,1)
+    while len(a)>1 and abs(a[j]-a[i])<=1:
+        a.remove(a[i])
+    if len(a)==1:
+        print("YES")
+    else:
+        print("NO")
