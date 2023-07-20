@@ -14,14 +14,10 @@ class LRUCache:
         return -1
 
     def put(self, key: int, value: int) -> None:
-        if key in self.store.keys():
-            self.store[key] = value
-        elif key not in self.store.keys() and len(self.store) < self.capacity:
-            self.store[key] = value
-        elif key not in self.store.keys() and len(self.store) >= self.capacity:
+        if key not in self.store.keys() and len(self.store) >= self.capacity:
             del self.store[self.recently[0]]
             self.recently = self.recently[1:]
-            self.store[key] = value
+        self.store[key] = value
         if key in self.recently:
             self.recently.remove(key)
         self.recently.append(key)
