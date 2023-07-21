@@ -1,13 +1,22 @@
 class Solution:
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
+        def isPossible(piles,k,h):
+            total_hours = 0
+            for pile in piles:
+                hours = pile // k
+                if pile % k != 0:
+                    hours += 1
+                total_hours += hours
+                if total_hours > h:
+                    return False
+            return True
+       
         l = 1
         r = max(piles)
-        while l <= r:
+        while l < r:
             m = (l+r)//2
-            total = sum(ceil(p+m-1)//m for p in piles)
-            if total <= h:
-                r = m - 1
+            if isPossible(piles,m,h):
+                r = m
             else:
                 l = m + 1
-            
         return l
