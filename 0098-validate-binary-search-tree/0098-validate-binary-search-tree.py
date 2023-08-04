@@ -12,6 +12,4 @@ class Solution:
                 result.append(root.val)
                 inOrder(root.right, result)
             return result
-        ans = inOrder(root, [])
-        s = sorted(list(set(ans)))
-        return ans == s
+        return inOrder(root, []) == sorted(list(set(inOrder(root, []))))
