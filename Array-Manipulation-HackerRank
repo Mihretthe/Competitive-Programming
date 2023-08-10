@@ -1,0 +1,14 @@
+def arrayManipulation(n, queries):
+    # Write your code here
+    a = [0] * (n + 1)
+    for i in queries:
+        start, end, add = i
+        a[start] += add
+        if end + 1 <= n:
+            a[end + 1] -= add
+    prefix = 0
+    max_sum = 0
+    for i in range(n + 1):
+        prefix += a[i]
+        max_sum = max(max_sum, prefix)
+    return max_sum
