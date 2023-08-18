@@ -1,0 +1,5 @@
+count = 0
+for i in range(int(input())):
+    row = list(map(int, input().split()))
+    count += row.count(1)
+print(count // 2 )
