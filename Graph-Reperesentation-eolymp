@@ -1,0 +1,18 @@
+from collections import defaultdict
+
+n = int(input())
+source = []
+sink = []
+graph = defaultdict(list)
+for _ in range(n):
+    row = list(map(int, input().split()))
+    if set(row) == {0}:
+        sink.append(str(_ + 1))
+    for j in range(n):
+        graph[j].append(row[j])
+for i in range(n):
+    if set(graph[i]) == {0}:
+        source.append(str(i + 1))
+        
+print(len(source), " ".join(source))
+print(len(sink), " ".join(sink))
