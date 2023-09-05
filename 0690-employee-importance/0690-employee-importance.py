@@ -44,7 +44,6 @@ class Solution:
         visited = []
         visited.append(id)
         idList = [i.id for i in employees]
-        trav = set()
         def visit(ans, id):
             nonlocal visited
             if len(visited) == 0:
@@ -55,13 +54,8 @@ class Solution:
             sub = obj.subordinates
             visited += sub
             used = visited.pop()
-            trav.add(used)
             ans += employees[idList.index(used)].importance
-            return visit(ans, used)
-            
-            
-            
-
+            return visit(ans, used)   
         return visit(0, id)
                 
                         
