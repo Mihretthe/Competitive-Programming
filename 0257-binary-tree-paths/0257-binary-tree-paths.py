@@ -13,7 +13,6 @@ class Solution:
                 ans.append(str(root.val))
                 if isLeaf(root):
                     final.append("->".join(ans))
-                    ans = []
                 
                 trav(root.left, ans[:], final)
                 trav(root.right, ans[:], final)
