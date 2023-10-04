@@ -1,24 +1,22 @@
 class MyHashMap:
 
     def __init__(self):
-        global a
-        a=dict()
-
-    def put(self, key: int, value: int) -> None:
-        global a
-        a[key]=value
+        self.hashmap = {}
         
 
+    def put(self, key: int, value: int) -> None:
+        self.hashmap[key] = value
+
     def get(self, key: int) -> int:
-        global a
-        if key in a.keys():
-            return a[key]
-        return -1
+        if key in self.hashmap:
+            return self.hashmap[key]
+        else:
+            return -1
 
     def remove(self, key: int) -> None:
-        global a
-        if key in a.keys():
-            del a[key]
+        if key in self.hashmap:
+            del self.hashmap[key]
+        
 
 
 # Your MyHashMap object will be instantiated and called as such:
