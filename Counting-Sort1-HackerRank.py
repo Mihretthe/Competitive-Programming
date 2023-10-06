@@ -14,14 +14,10 @@ import sys
 
 def countingSort(arr):
     # Write your code here
-    a=list(range(100))
-    for i in range(100):
-        a[i]=0
+    counter = [0] * 100
     for i in arr:
-        for j in range(100):
-            if i==j:
-                a[j]+=1                
-    return a
+        counter[i] += 1
+    return counter
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
 
