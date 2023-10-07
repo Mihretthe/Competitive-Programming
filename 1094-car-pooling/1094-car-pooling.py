@@ -18,6 +18,5 @@ class Solution:
             prefix[i] += prefix[i - 1]
             if prefix[i - 1] > capacity:
                 return False
-        print(prefix)
         return True
                 
