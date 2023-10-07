@@ -1,20 +1,30 @@
 class Solution:
     def maxSumRangeQuery(self, nums: List[int], requests: List[List[int]]) -> int:
         n = len(nums)
-        a = [0] * n
+        
+        prefix = [0] * n
         for i, j in requests:
-            a[i] += 1
+            prefix[i] += 1
             if j + 1 < n:
-                a[j + 1] -= 1
-        for i in range(1, n):
-            a[i] += a[i - 1]
-        a.sort(reverse = True)
+                prefix[j + 1] -= 1
+        def doPrefix(l):
+            for i in range(1,len(l)):
+                l[i] += l[i - 1]
+            
+            return l
+        
+        prefix = doPrefix(prefix)
+        prefix.sort(reverse = True) 
         nums.sort(reverse = True)
-        sumz = 0
+        ans = 0
+        
         for i in range(n):
-            if a[i] == 0:
+            if prefix[i] == 0:
                 break
-            sumz += (nums[i] * a[i])     
+            ans += (nums[i] * prefix[i])
+
         
         
-        return int(sumz % (1e9 + 7))
+        
+        
+        return ans % int(1e9 + 7)
