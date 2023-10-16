@@ -8,7 +8,7 @@ class Solution:
             new = []
             for i in range(1,n):
                 new.append((nums[i - 1] + nums[i])%10)
-            nums = new[:]
+            nums = new
             n -= 1
             if n == 1:
                 return new[0]
