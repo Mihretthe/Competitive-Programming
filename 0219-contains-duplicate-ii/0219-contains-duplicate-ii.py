@@ -1,7 +1,6 @@
 class Solution:
     def containsNearbyDuplicate(self, nums: List[int], k: int) -> bool:
         hashmap = {}
-        idx = 0
         for i in range(len(nums)):
             if nums[i] in hashmap:
                 hashmap[nums[i]][0] += 1  
