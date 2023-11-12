@@ -10,7 +10,6 @@ class RecentCounter:
                 n = len(self.counter)
                 self.counter = self.counter[i:]
                 return n - i
-        # return 1
 
 
 # Your RecentCounter object will be instantiated and called as such:
