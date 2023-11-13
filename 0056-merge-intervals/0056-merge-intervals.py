@@ -12,16 +12,8 @@ class Solution:
         """
         while i < n - 1:
             if intervals[i][1] >= intervals[i + 1][0]:
-                if intervals[i][0] <= intervals[i + 1][0]:
-                    a = intervals[i][0]
-                else:
-                    a = intervals[i + 1][0]
-                if  intervals[i + 1][1] >=  intervals[i][1]:
-                    b =  intervals[i + 1][1]
-                else:
-                    b =  intervals[i][1]
-                intervals[i] = [a,b]
-                intervals = intervals[:i + 1] + intervals[i + 2:]
+                intervals[i] = [min(intervals[i][0],intervals[i + 1][0]), max(intervals[i][1], intervals[i + 1][1])]
+                intervals.remove(intervals[i + 1])
                 n -= 1
             else:
                 i += 1
