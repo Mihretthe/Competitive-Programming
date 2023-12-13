@@ -4,8 +4,7 @@ class Solution:
         ans = []
         for i in spaces:
           ans.append(s[at:i])
-          ans.append(" ")
           at = i
         ans.append(s[at:])    
 
-        return "".join(ans)
+        return " ".join(ans)
