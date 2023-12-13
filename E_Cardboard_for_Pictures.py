@@ -9,6 +9,6 @@ for _ in range(int(input())):
     square_sum = [i * i for i in s]
     square_sum = sum(square_sum)
 
-    answer = (((0 - size_sum) + (math.sqrt((size_sum * size_sum) + (4 * n * (((c - square_sum)//4))))))) / ( 2 * n)
+    answer = ((0 - size_sum) + (math.sqrt((size_sum * size_sum) + (4 * n * (((c - square_sum)//4)))))) / ( 2 * n)
 
     print(math.ceil(answer))
