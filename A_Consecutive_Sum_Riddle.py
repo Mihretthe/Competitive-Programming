@@ -5,7 +5,7 @@ for _ in range(testcases):
     checker = 0
     start = 0
     end = 0
-    for i in range(1,n):
+    for i in range(n):
         checker += i
         if checker == n:
             end = i + 1
