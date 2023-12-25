@@ -4,42 +4,35 @@ class Bitset:
         self.bitset = ["0"] * size
         self.flipped = ["1"] * size
         self.size = size
-        self.counter = {"0":size, "1":0}
-        self.counter_flipped = {"0":0, "1":size}
+        self.counter = 0        
 
     def fix(self, idx: int) -> None:
         if self.bitset[idx] == "0":
             self.bitset[idx] = "1"
-            self.flipped[idx] = "0" 
-            self.counter["1"] += 1
-            self.counter["0"] -= 1
-            self.counter_flipped["1"] -= 1  
-            self.counter_flipped["0"] += 1
+            self.flipped[idx] = "0"
+            self.counter += 1       
 
     def unfix(self, idx: int) -> None:
         if self.bitset[idx] == "1":
             self.bitset[idx] = "0"
-            self.flipped[idx] = "1" 
-            self.counter["1"] -= 1
-            self.counter["0"] += 1  
-            self.counter_flipped["0"] -= 1  
-            self.counter_flipped["1"] += 1  
-        
+            self.flipped[idx] = "1"
+            self.counter -= 1        
 
     def flip(self) -> None:
         self.bitset, self.flipped = self.flipped, self.bitset
-        self.counter, self.counter_flipped = self.counter_flipped, self.counter
-        
+        self.counter = self.size - self.counter        
 
     def all(self) -> bool:
-        return self.counter["1"] == self.size
+        return self.counter == self.size
         
 
     def one(self) -> bool:
-        return self.counter["1"]
+        return self.counter
+        
 
     def count(self) -> int:
-        return self.counter["1"]
+        return self.counter
+        
 
     def toString(self) -> str:
         return "".join(self.bitset)
