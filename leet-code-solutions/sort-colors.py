@@ -3,11 +3,21 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        n = len(nums)
+        l = 0
+        m = 0
+        r = len(nums) - 1
 
-        for i in range(n - 1):
-            for j in range(n - i - 1):
-                if nums[j] > nums[j + 1]:
-                    nums[j], nums[j + 1] = nums[j + 1], nums[j]
+        while m <= r:
+            if nums[m] == 0:
+                nums[l],nums[m] = nums[m], nums[l]
+                l += 1
+                m += 1
+            elif nums[m] == 2:
+                nums[m],nums[r] = nums[r], nums[m]
+                r -= 1
+            else:
+                m += 1
+            
+            
 
-
+        
