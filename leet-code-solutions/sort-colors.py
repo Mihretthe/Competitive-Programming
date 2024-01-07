@@ -3,21 +3,19 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        l = 0
-        m = 0
-        r = len(nums) - 1
+        low, mid, high = 0, 0, len(nums) - 1
 
-        while m <= r:
-            if nums[m] == 0:
-                nums[l],nums[m] = nums[m], nums[l]
-                l += 1
-                m += 1
-            elif nums[m] == 2:
-                nums[m],nums[r] = nums[r], nums[m]
-                r -= 1
+        while mid <= high:
+            if nums[mid] == 0:
+                nums[low], nums[mid] = nums[mid], nums[low]
+                low += 1
+                mid += 1
+            elif nums[mid] == 2:
+                nums[mid], nums[high] = nums[high], nums[mid]
+                high -= 1
             else:
-                m += 1
-            
-            
+                mid += 1
+
+
 
         
