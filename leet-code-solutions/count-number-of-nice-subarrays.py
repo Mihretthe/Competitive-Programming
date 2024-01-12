@@ -9,7 +9,6 @@ class Solution:
             for right in range(length):
                 if nums[right] % 2 == 1:
                     counter += 1
-                print(counter)
                 while left < length and counter > k:
                     if nums[left] % 2 == 1:
                         counter -= 1
