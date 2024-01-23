@@ -1,28 +1,25 @@
 class Solution:
     def maxScore(self, s: str) -> int:
-        n = len(s)
-        zeros = [0] * n
-        ones = [0] * n
+        length = len(s)
+        zeros = [0] * (length)
+        ones = [0] * (length)
 
-        countz = 0
-        counto = 0
-
-        for i in range(n):
-            zeros[i] = countz
-            if s[i] == "0":
-                countz += 1
-            
-
-        for i in range(n - 1, -1, -1):
+        for i in range(length):
             if s[i] == "1":
-                counto += 1
-            ones[i] = counto
+                ones[i] += 1
+            else:
+                zeros[i] += 1
+        ones = ones[::-1]
+        for i in range(1,length):
+            ones[i] += ones[i - 1]
+            zeros[i] += zeros[i - 1]
+        ones = ones[:-1]
+        zeros = zeros[:-1]
+        ones = ones[::-1]
+        max_sum = 0
+        for i, j in zip(zeros, ones):
+            if i + j > max_sum:
+                max_sum = i + j
 
-
-        m = 0
-        for i in range(1, n):
-            m = max(m, zeros[i] + ones[i])
-
-        return m
-
-
+        return max_sum
+    
