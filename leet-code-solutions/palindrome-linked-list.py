@@ -7,20 +7,25 @@ class Solution:
     def isPalindrome(self, head: Optional[ListNode]) -> bool:
         slow = head
         fast = head
-        stack = []
+        prev = None
+
+        track = head
 
         while fast and fast.next:
-            stack.append(slow.val)
             slow = slow.next
             fast = fast.next.next
-        
+            current = track.next
+            track.next = prev
+            prev = track
+            track = current
+            
+            
         if fast:
             slow = slow.next
+        
         while slow:
-            if stack.pop() != slow.val:
+            if slow.val != prev.val:
                 return False
             slow = slow.next
-
+            prev = prev.next
         return True
-
-
