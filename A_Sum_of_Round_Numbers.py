@@ -10,4 +10,4 @@ for _ in range(int(input())):
                 n[i] = "0"
                 k += 1
     print(k)
-    print(*ans)
+    print(*ans)    

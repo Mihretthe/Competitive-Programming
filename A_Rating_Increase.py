@@ -1,16 +1,11 @@
 for _ in range(int(input())):
     ab = input()
 
-    a = ab[0]
+    
 
-    for i in range(1, len(ab)):
-        if ab[i] != "0":
+    for right in range(1,len(ab)):
+        if ab[right] != "0" and int(ab[:right]) < int(ab[right:]):
+            print(ab[:right], ab[right:])
             break
-        else:
-            a += ab[i]
-
-    b = ab[i:]
-    if int(a) == int(b):
-        print(-1)
     else:
-        print(a, b)
+        print(-1)

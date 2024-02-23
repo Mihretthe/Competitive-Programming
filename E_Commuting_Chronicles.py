@@ -1,48 +1,64 @@
-n, m = map(int, input().split())
-cs = 0
-rs = 0
-ct = 0
-rt = 0
+def I():
+    return int(input())
 
+def IL():
+    return list(map(int, input().split()))
+
+def S():
+    return input()
+
+def NI():
+    return map(int, input().split())
+
+def LS():
+    return list(input())
+
+def solve(matrix, row, col):
+    for r in range(row):
+        #Case 1 if the S and T are in the same row
+        for c in range(col):
+            if matrix[r][c] in "TS":
+                i = c - 1
+                while i >= 0 and matrix[r][i] == ".":
+                    matrix[r][i] = "M"
+                    i -= 1
+                if i >= 0 and matrix[r][i] in "TS":
+                    return True
+                i = c + 1
+                while i < col and matrix[r][i] == ".":
+                    matrix[r][i] = "M"
+                    i += 1
+                if i < col and matrix[r][i] in "TS":
+                    return True
+        #check every colum if there is an intersection between the marked 
+    for c in range(col):
+        r = 0
+        while r < row:
+            if matrix[r][c] in "TSM":
+                r += 1
+                while r < row and matrix[r][c] == ".":
+                    r += 1
+                if r < row and matrix[r][c] in "TSM":
+                    return True
+            r += 1
+    return False
+        
+
+
+
+
+    
+
+rows, cols = NI()
 matrix = []
 
-for i in range(n):
-    s = list(input())
-    if "S" in s:
-        cs = s.index("S")
-        rs = i
-    
-    if "T" in s:
-        ct= s.index("T")
-        rt = i
-    
-    matrix.append(s)
+for i in range(rows):
+    matrix.append(LS())
+transponse_matrix = []
+for row in zip(*matrix):
+    transponse_matrix.append(list(row))
 
-
-mymat = matrix[rs:rt + 1]
-
-trans = list(zip(*mymat))
-
-if rs == rt and len(set(matrix[rs][cs:ct + 1])) == 1 and matrix[rs][cs:ct + 1][1] == ".":
-    print("YES")
-
-elif cs == ct and len(set(trans[rs][rs:rt + 1])) == 1 and trans[cs][rs:rt + 1][1] == ".":
+if solve(matrix, rows, cols) or solve(transponse_matrix, cols, rows):
     print("YES")
 else:
-
-    
-    for row in trans:
-        if "S" in row and "T" in row:
-            a = row[row.index("S") + 1:row.index("T") ]
-            if a and len(set(a)) == 1 and a[0] == ".":
-                print("YES")
-                break
-            elif a == []:
-                print("YES")
-                break
-
-        if len(set(row)) == 1 and row[0] == "." :
-            print("YES")
-            break
-    else:
-        print("NO")
+    print("NO")
