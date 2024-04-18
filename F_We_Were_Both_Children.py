@@ -1,20 +1,20 @@
+from collections import Counter
+
 t = int(input())
 
 for _ in range(t):
     n = int(input())
     a = list(map(int, input().split()))
-   
-   
-    ans = 0
-    count = 0
 
-    for i in range(1,n + 1):
+    freq = Counter(a)  # Count the frequency of each number
+
+    max_count = 0
+
+    for i in range(1, n + 1):
         count = 0
-        for j in range(n):
-            if i % a[j] == 0:
-                count += 1
+        for num in freq:
+            if i % num == 0:
+                count += freq[num]  # Count the multiples of num
+        max_count = max(max_count, count)
 
-        ans = max(ans, count)
-    
-    ans = max(ans, count)
-    print(ans) 
+    print(max_count)

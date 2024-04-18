@@ -4,14 +4,17 @@ def sumd(num):
         ans += num % 10
         num //= 10
     return ans
+answer = []
+
+for i in range(1, 200001):
+    if not answer:
+        answer.append(i)
+    else:
+        answer.append(answer[-1] + sumd(i))
+
 
 for _ in range(int(input())):
     n = int(input())
-    ans = 0
-    for i in range(1, n + 1):
-        ans += sumd(i)
-    print(ans)
-
+    print(answer[n - 1])
     
-
-
+    
