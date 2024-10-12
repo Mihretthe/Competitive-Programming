@@ -2,7 +2,6 @@ class Solution:
     def minGroups(self, intervals: List[List[int]]) -> int:
         
         prefix = [0] * 1000001
-        print(len(intervals))
 
         for left, right in intervals:
             prefix[left] += 1
