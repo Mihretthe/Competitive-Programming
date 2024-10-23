@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mihretthe/Competitive-Programming/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Mihretthe/Competitive-Programming/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Mihretthe/Competitive-Programming/tree/master/2442-number-of-arithmetic-triplets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Mihretthe/Competitive-Programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Mihretthe/Competitive-Programming/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Mihretthe/Competitive-Programming/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mihretthe/Competitive-Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Mihretthe/Competitive-Programming/tree/master/2442-number-of-arithmetic-triplets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Mihretthe/Competitive-Programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Greedy
 |  |
@@ -86,10 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mihretthe/Competitive-Programming/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Mihretthe/Competitive-Programming/tree/master/2442-number-of-arithmetic-triplets) |
 ## Hash Table
 |  |
 | ------- |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Mihretthe/Competitive-Programming/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Mihretthe/Competitive-Programming/tree/master/2442-number-of-arithmetic-triplets) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Mihretthe/Competitive-Programming/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Counting
 |  |
