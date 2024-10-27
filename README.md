@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mihretthe/Competitive-Programming/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1524-string-matching-in-an-array](https://github.com/Mihretthe/Competitive-Programming/tree/master/1524-string-matching-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mihretthe/Competitive-Programming/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Mihretthe/Competitive-Programming/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Mihretthe/Competitive-Programming/tree/master/2442-number-of-arithmetic-triplets) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mihretthe/Competitive-Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1304-longest-happy-string](https://github.com/Mihretthe/Competitive-Programming/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mihretthe/Competitive-Programming/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1524-string-matching-in-an-array](https://github.com/Mihretthe/Competitive-Programming/tree/master/1524-string-matching-in-an-array) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Mihretthe/Competitive-Programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Mihretthe/Competitive-Programming/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Math
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mihretthe/Competitive-Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Mihretthe/Competitive-Programming/tree/master/0572-subtree-of-another-tree) |
+| [1524-string-matching-in-an-array](https://github.com/Mihretthe/Competitive-Programming/tree/master/1524-string-matching-in-an-array) |
 ## Hash Function
 |  |
 | ------- |
