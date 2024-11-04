@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Mihretthe/Competitive-Programming/tree/master/1524-string-matching-in-an-array) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Mihretthe/Competitive-Programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Mihretthe/Competitive-Programming/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3451-string-compression-iii](https://github.com/Mihretthe/Competitive-Programming/tree/master/3451-string-compression-iii) |
 ## Math
 |  |
 | ------- |
