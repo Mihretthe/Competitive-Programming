@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Mihretthe/Competitive-Programming/tree/master/0300-longest-increasing-subsequence) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mihretthe/Competitive-Programming/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1086-divisor-game](https://github.com/Mihretthe/Competitive-Programming/tree/master/1086-divisor-game) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Mihretthe/Competitive-Programming/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Mihretthe/Competitive-Programming/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Graph
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/Mihretthe/Competitive-Programming/tree/master/0670-maximum-swap) |
+| [1086-divisor-game](https://github.com/Mihretthe/Competitive-Programming/tree/master/1086-divisor-game) |
 | [2716-prime-subtraction-operation](https://github.com/Mihretthe/Competitive-Programming/tree/master/2716-prime-subtraction-operation) |
 ## Backtracking
 |  |
@@ -185,4 +187,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1972-rotating-the-box](https://github.com/Mihretthe/Competitive-Programming/tree/master/1972-rotating-the-box) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Mihretthe/Competitive-Programming/tree/master/2343-count-unguarded-cells-in-the-grid) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Mihretthe/Competitive-Programming/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Mihretthe/Competitive-Programming/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
