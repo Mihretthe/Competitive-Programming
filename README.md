@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Mihretthe/Competitive-Programming/tree/master/0300-longest-increasing-subsequence) |
 | [1331-path-with-maximum-gold](https://github.com/Mihretthe/Competitive-Programming/tree/master/1331-path-with-maximum-gold) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mihretthe/Competitive-Programming/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Mihretthe/Competitive-Programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/Mihretthe/Competitive-Programming/tree/master/1524-string-matching-in-an-array) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Mihretthe/Competitive-Programming/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1972-rotating-the-box](https://github.com/Mihretthe/Competitive-Programming/tree/master/1972-rotating-the-box) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mihretthe/Competitive-Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Mihretthe/Competitive-Programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1972-rotating-the-box](https://github.com/Mihretthe/Competitive-Programming/tree/master/1972-rotating-the-box) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Mihretthe/Competitive-Programming/tree/master/2442-number-of-arithmetic-triplets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Mihretthe/Competitive-Programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Mihretthe/Competitive-Programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Mihretthe/Competitive-Programming/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Mihretthe/Competitive-Programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mihretthe/Competitive-Programming/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Mihretthe/Competitive-Programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Mihretthe/Competitive-Programming/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Mihretthe/Competitive-Programming/tree/master/2442-number-of-arithmetic-triplets) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mihretthe/Competitive-Programming/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -178,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Mihretthe/Competitive-Programming/tree/master/0300-longest-increasing-subsequence) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Mihretthe/Competitive-Programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Mihretthe/Competitive-Programming/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Mihretthe/Competitive-Programming/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Mihretthe/Competitive-Programming/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
