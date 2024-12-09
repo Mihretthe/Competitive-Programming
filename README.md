@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mihretthe/Competitive-Programming/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Mihretthe/Competitive-Programming/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Mihretthe/Competitive-Programming/tree/master/3291-find-if-array-can-be-sorted) |
+| [3429-special-array-i](https://github.com/Mihretthe/Competitive-Programming/tree/master/3429-special-array-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Mihretthe/Competitive-Programming/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Mihretthe/Competitive-Programming/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Two Pointers
