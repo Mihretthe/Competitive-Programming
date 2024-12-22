@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mihretthe/Competitive-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mihretthe/Competitive-Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/Mihretthe/Competitive-Programming/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Mihretthe/Competitive-Programming/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mihretthe/Competitive-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0491-non-decreasing-subsequences](https://github.com/Mihretthe/Competitive-Programming/tree/master/0491-non-decreasing-subsequences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mihretthe/Competitive-Programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Mihretthe/Competitive-Programming/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mihretthe/Competitive-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mihretthe/Competitive-Programming/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2868-continuous-subarrays](https://github.com/Mihretthe/Competitive-Programming/tree/master/2868-continuous-subarrays) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Mihretthe/Competitive-Programming/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
