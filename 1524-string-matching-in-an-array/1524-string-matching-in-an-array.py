@@ -1,16 +1,14 @@
 class Solution:
     def stringMatching(self, words: List[str]) -> List[str]:
-        words.sort(key = lambda x : len(x))
-
-        length = len(words)
+        
         answer = []
-
-        for i in range(length):
-            word = words[i]
-            for j in range(i + 1, length):
-                if word in words[j]:
+        for word in words:
+            count = -1
+            for word2 in words:
+                if word in word2:
+                    count += 1
+                if count > 0:
                     answer.append(word)
                     break
-
+        
         return answer
-
