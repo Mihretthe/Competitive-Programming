@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Mihretthe/Competitive-Programming/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/Mihretthe/Competitive-Programming/tree/master/0494-target-sum) |
+| [0688-knight-probability-in-chessboard](https://github.com/Mihretthe/Competitive-Programming/tree/master/0688-knight-probability-in-chessboard) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mihretthe/Competitive-Programming/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1025-minimum-cost-for-tickets](https://github.com/Mihretthe/Competitive-Programming/tree/master/1025-minimum-cost-for-tickets) |
 | [1086-divisor-game](https://github.com/Mihretthe/Competitive-Programming/tree/master/1086-divisor-game) |
