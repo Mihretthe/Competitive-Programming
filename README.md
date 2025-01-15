@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Mihretthe/Competitive-Programming/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Mihretthe/Competitive-Programming/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1972-rotating-the-box](https://github.com/Mihretthe/Competitive-Programming/tree/master/1972-rotating-the-box) |
+| [1983-maximum-population-year](https://github.com/Mihretthe/Competitive-Programming/tree/master/1983-maximum-population-year) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Mihretthe/Competitive-Programming/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mihretthe/Competitive-Programming/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Mihretthe/Competitive-Programming/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Mihretthe/Competitive-Programming/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1983-maximum-population-year](https://github.com/Mihretthe/Competitive-Programming/tree/master/1983-maximum-population-year) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Mihretthe/Competitive-Programming/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Mihretthe/Competitive-Programming/tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Mihretthe/Competitive-Programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/Mihretthe/Competitive-Programming/tree/master/1502-construct-k-palindrome-strings) |
+| [1983-maximum-population-year](https://github.com/Mihretthe/Competitive-Programming/tree/master/1983-maximum-population-year) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Mihretthe/Competitive-Programming/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Mihretthe/Competitive-Programming/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Recursion
