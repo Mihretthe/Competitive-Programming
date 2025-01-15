@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mihretthe/Competitive-Programming/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Mihretthe/Competitive-Programming/tree/master/2716-prime-subtraction-operation) |
 | [2868-continuous-subarrays](https://github.com/Mihretthe/Competitive-Programming/tree/master/2868-continuous-subarrays) |
+| [3034-points-that-intersect-with-cars](https://github.com/Mihretthe/Competitive-Programming/tree/master/3034-points-that-intersect-with-cars) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Mihretthe/Competitive-Programming/tree/master/3291-find-if-array-can-be-sorted) |
 | [3429-special-array-i](https://github.com/Mihretthe/Competitive-Programming/tree/master/3429-special-array-i) |
 | [3463-alternating-groups-i](https://github.com/Mihretthe/Competitive-Programming/tree/master/3463-alternating-groups-i) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/Mihretthe/Competitive-Programming/tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Mihretthe/Competitive-Programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Mihretthe/Competitive-Programming/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3034-points-that-intersect-with-cars](https://github.com/Mihretthe/Competitive-Programming/tree/master/3034-points-that-intersect-with-cars) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/Mihretthe/Competitive-Programming/tree/master/2442-number-of-arithmetic-triplets) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mihretthe/Competitive-Programming/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Mihretthe/Competitive-Programming/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3034-points-that-intersect-with-cars](https://github.com/Mihretthe/Competitive-Programming/tree/master/3034-points-that-intersect-with-cars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Mihretthe/Competitive-Programming/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
 |  |
