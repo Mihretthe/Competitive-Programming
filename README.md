@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/Mihretthe/Competitive-Programming/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mihretthe/Competitive-Programming/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Mihretthe/Competitive-Programming/tree/master/2716-prime-subtraction-operation) |
+| [2792-neighboring-bitwise-xor](https://github.com/Mihretthe/Competitive-Programming/tree/master/2792-neighboring-bitwise-xor) |
 | [2868-continuous-subarrays](https://github.com/Mihretthe/Competitive-Programming/tree/master/2868-continuous-subarrays) |
 | [3034-points-that-intersect-with-cars](https://github.com/Mihretthe/Competitive-Programming/tree/master/3034-points-that-intersect-with-cars) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Mihretthe/Competitive-Programming/tree/master/3291-find-if-array-can-be-sorted) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mihretthe/Competitive-Programming/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Mihretthe/Competitive-Programming/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Mihretthe/Competitive-Programming/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2792-neighboring-bitwise-xor](https://github.com/Mihretthe/Competitive-Programming/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Mihretthe/Competitive-Programming/tree/master/3291-find-if-array-can-be-sorted) |
 ## Enumeration
 |  |
