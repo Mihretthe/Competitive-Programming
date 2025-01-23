@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/Mihretthe/Competitive-Programming/tree/master/1025-minimum-cost-for-tickets) |
 | [1331-path-with-maximum-gold](https://github.com/Mihretthe/Competitive-Programming/tree/master/1331-path-with-maximum-gold) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mihretthe/Competitive-Programming/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/Mihretthe/Competitive-Programming/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mihretthe/Competitive-Programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/Mihretthe/Competitive-Programming/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mihretthe/Competitive-Programming/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -123,12 +124,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Mihretthe/Competitive-Programming/tree/master/0572-subtree-of-another-tree) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mihretthe/Competitive-Programming/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mihretthe/Competitive-Programming/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/Mihretthe/Competitive-Programming/tree/master/1396-count-servers-that-communicate) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Mihretthe/Competitive-Programming/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mihretthe/Competitive-Programming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mihretthe/Competitive-Programming/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1396-count-servers-that-communicate](https://github.com/Mihretthe/Competitive-Programming/tree/master/1396-count-servers-that-communicate) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Mihretthe/Competitive-Programming/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Mihretthe/Competitive-Programming/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## String
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/Mihretthe/Competitive-Programming/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Mihretthe/Competitive-Programming/tree/master/1502-construct-k-palindrome-strings) |
 | [1983-maximum-population-year](https://github.com/Mihretthe/Competitive-Programming/tree/master/1983-maximum-population-year) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Mihretthe/Competitive-Programming/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -272,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-path-with-maximum-gold](https://github.com/Mihretthe/Competitive-Programming/tree/master/1331-path-with-maximum-gold) |
+| [1396-count-servers-that-communicate](https://github.com/Mihretthe/Competitive-Programming/tree/master/1396-count-servers-that-communicate) |
 | [1972-rotating-the-box](https://github.com/Mihretthe/Competitive-Programming/tree/master/1972-rotating-the-box) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mihretthe/Competitive-Programming/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Mihretthe/Competitive-Programming/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -305,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mihretthe/Competitive-Programming/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Mihretthe/Competitive-Programming/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
