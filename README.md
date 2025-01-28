@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/Mihretthe/Competitive-Programming/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mihretthe/Competitive-Programming/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Mihretthe/Competitive-Programming/tree/master/2716-prime-subtraction-operation) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mihretthe/Competitive-Programming/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2792-neighboring-bitwise-xor](https://github.com/Mihretthe/Competitive-Programming/tree/master/2792-neighboring-bitwise-xor) |
 | [2868-continuous-subarrays](https://github.com/Mihretthe/Competitive-Programming/tree/master/2868-continuous-subarrays) |
 | [3034-points-that-intersect-with-cars](https://github.com/Mihretthe/Competitive-Programming/tree/master/3034-points-that-intersect-with-cars) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mihretthe/Competitive-Programming/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/Mihretthe/Competitive-Programming/tree/master/1396-count-servers-that-communicate) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Mihretthe/Competitive-Programming/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mihretthe/Competitive-Programming/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Mihretthe/Competitive-Programming/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Mihretthe/Competitive-Programming/tree/master/1396-count-servers-that-communicate) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Mihretthe/Competitive-Programming/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mihretthe/Competitive-Programming/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Mihretthe/Competitive-Programming/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## String
 |  |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mihretthe/Competitive-Programming/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Mihretthe/Competitive-Programming/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Mihretthe/Competitive-Programming/tree/master/2685-first-completely-painted-row-or-column) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mihretthe/Competitive-Programming/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Brainteaser
 |  |
 | ------- |
@@ -321,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Mihretthe/Competitive-Programming/tree/master/1396-count-servers-that-communicate) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mihretthe/Competitive-Programming/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mihretthe/Competitive-Programming/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
 |  |
