@@ -5,21 +5,31 @@
 #         self.next = next
 class Solution:
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
-        a=[]
-        # if len(lists)==0:
-        #     return None
-        for i in lists:
-            q=i
-            while q:
-                a.append(q.val)
-                q=q.next
-        a.sort(reverse=True)
-        if a:
-            p=ListNode(a[-1])
-            a=a[:len(a)-1]
-            for i in a:
-                node=ListNode(i,p.next)
-                p.next=node
-            return p
-        else:
+        
+        array = []
+
+        for linked_list in lists:
+            nums = []
+            temp = linked_list
+            while temp:
+                nums.append(temp.val)
+                temp = temp.next
+            array.extend(nums[:])
+        
+        array.sort()
+
+        if not array:
             return None
+
+
+        dummy = ListNode(-1, ListNode(array[0]))
+        temp = dummy.next
+
+        for num in array[1:]:
+            node = ListNode(num)
+            temp.next = node
+            temp = temp.next          
+            
+
+
+        return dummy.next
