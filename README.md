@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0670-maximum-swap](https://github.com/Mihretthe/Competitive-Programming/tree/master/0670-maximum-swap) |
 | [1086-divisor-game](https://github.com/Mihretthe/Competitive-Programming/tree/master/1086-divisor-game) |
+| [1642-water-bottles](https://github.com/Mihretthe/Competitive-Programming/tree/master/1642-water-bottles) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Mihretthe/Competitive-Programming/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2716-prime-subtraction-operation](https://github.com/Mihretthe/Competitive-Programming/tree/master/2716-prime-subtraction-operation) |
 ## Backtracking
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/Mihretthe/Competitive-Programming/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Mihretthe/Competitive-Programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Mihretthe/Competitive-Programming/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Tree
