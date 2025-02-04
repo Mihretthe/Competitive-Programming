@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mihretthe/Competitive-Programming/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Mihretthe/Competitive-Programming/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Mihretthe/Competitive-Programming/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/Mihretthe/Competitive-Programming/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1972-rotating-the-box](https://github.com/Mihretthe/Competitive-Programming/tree/master/1972-rotating-the-box) |
 | [1983-maximum-population-year](https://github.com/Mihretthe/Competitive-Programming/tree/master/1983-maximum-population-year) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Mihretthe/Competitive-Programming/tree/master/2106-find-greatest-common-divisor-of-array) |
