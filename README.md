@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Mihretthe/Competitive-Programming/tree/master/0300-longest-increasing-subsequence) |
 | [0491-non-decreasing-subsequences](https://github.com/Mihretthe/Competitive-Programming/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Mihretthe/Competitive-Programming/tree/master/0494-target-sum) |
+| [0722-remove-comments](https://github.com/Mihretthe/Competitive-Programming/tree/master/0722-remove-comments) |
 | [0952-word-subsets](https://github.com/Mihretthe/Competitive-Programming/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/Mihretthe/Competitive-Programming/tree/master/1025-minimum-cost-for-tickets) |
 | [1331-path-with-maximum-gold](https://github.com/Mihretthe/Competitive-Programming/tree/master/1331-path-with-maximum-gold) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mihretthe/Competitive-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mihretthe/Competitive-Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Mihretthe/Competitive-Programming/tree/master/0049-group-anagrams) |
+| [0722-remove-comments](https://github.com/Mihretthe/Competitive-Programming/tree/master/0722-remove-comments) |
 | [0812-rotate-string](https://github.com/Mihretthe/Competitive-Programming/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Mihretthe/Competitive-Programming/tree/master/0952-word-subsets) |
 | [1250-longest-common-subsequence](https://github.com/Mihretthe/Competitive-Programming/tree/master/1250-longest-common-subsequence) |
