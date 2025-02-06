@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/Mihretthe/Competitive-Programming/tree/master/1025-minimum-cost-for-tickets) |
 | [1331-path-with-maximum-gold](https://github.com/Mihretthe/Competitive-Programming/tree/master/1331-path-with-maximum-gold) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mihretthe/Competitive-Programming/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1364-tuple-with-same-product](https://github.com/Mihretthe/Competitive-Programming/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Mihretthe/Competitive-Programming/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mihretthe/Competitive-Programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/Mihretthe/Competitive-Programming/tree/master/1524-string-matching-in-an-array) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Mihretthe/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0491-non-decreasing-subsequences](https://github.com/Mihretthe/Competitive-Programming/tree/master/0491-non-decreasing-subsequences) |
 | [0952-word-subsets](https://github.com/Mihretthe/Competitive-Programming/tree/master/0952-word-subsets) |
+| [1364-tuple-with-same-product](https://github.com/Mihretthe/Competitive-Programming/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mihretthe/Competitive-Programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/Mihretthe/Competitive-Programming/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Mihretthe/Competitive-Programming/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/Mihretthe/Competitive-Programming/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Mihretthe/Competitive-Programming/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Mihretthe/Competitive-Programming/tree/master/1502-construct-k-palindrome-strings) |
 | [1983-maximum-population-year](https://github.com/Mihretthe/Competitive-Programming/tree/master/1983-maximum-population-year) |
