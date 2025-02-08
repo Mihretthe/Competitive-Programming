@@ -1,19 +1,39 @@
-n, s = map(int, input().split())
-a = list(map(int, input().split()))
-max_segment = 0
+from sys import stdin
 
-add = 0
-starter = 0
-for i in range(n):
-    if add > s:
-        add = 0
-        max_segment = max(max_segment,i - 1 - starter)
-        starter = i
-    elif add == s:
-        add = 0
-        max_segment = max(max_segment,i - starter)
-        starter = i + 1
+def I(): return int(stdin.readline().strip())
+ 
+def II(): return map(int, stdin.readline().strip().split())
+ 
+def IL(): return list(map(int, stdin.readline().strip().split()))
+ 
+def SIL(): return sorted(map(int, stdin.readline().strip().split()),)
 
-    add += a[i]
+def S() : return stdin.readline().strip()
 
-print(max_segment)
+def SL() : return list(stdin.readline().strip().split())
+
+
+def solve():
+    n, k = II()
+    nums = IL()
+
+    left = 0
+    max_length = 0
+    total = 0
+    for right in range(n):
+        total += nums[right]
+
+        while total > k:
+            total -= nums[left]
+            left += 1
+
+        max_length = max(max_length, right - left + 1)
+
+    print(max_length)
+ 
+ 
+ 
+ 
+T = 1
+for _ in range(T):
+    solve()

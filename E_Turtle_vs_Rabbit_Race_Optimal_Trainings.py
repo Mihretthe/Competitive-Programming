@@ -12,48 +12,63 @@ def S() : return stdin.readline().strip()
 
 def SL() : return list(stdin.readline().strip().split())
 
-    
+
+
+
 
 def solve():
     length = I()
     nums = IL()
     
-    def check(left, right, u):
-        count = 0
-        for i in range(left, right + 1):
-            if u >= nums[i] - u:
-                count += 1
-                u -= nums[i]
-            else:
-                break
-        return count
-    ans = []
+    prefix = [0]
+
+    for num in nums:
+        prefix.append(prefix[-1] + num)
+    
+    # print(prefix)
+
+    def add(i, j):
+        i -= 1
+        i = i*(i + 1) // 2
+        j = j *(j + 1) // 2
+
+        return j - i
+    
+    def check(l, r):
+        val = prefix[r] - prefix[l - 1]
+        
+        return val
+    
+    answer = []
     for _ in range(I()):
-        left, u = II()  
-        right = length - 1
-        left -= 1
-        right = length - 1
-        for i in range(length - 1, left - 1, -1):
-            right = max(right,check(left, i, u)) 
-        ans.append(right)
-            
+        l, u = II()
+        
+        r = length 
+        init = l 
 
-    print(*ans)
+        while l + 1< r:
+            mid = (l + r) // 2
+            val = check(init, mid)
+            if val <= u:
+                l = mid 
+            elif val > u:
+                r = mid 
+        vall = check(init, l)
+        val2 = check(init, r)
+        first = add(vall - u, u + 1)
+        second = add(val2 - u, u + 1)
+        
 
-            
+        if first >= second:
+            answer.append(l)
+        else:
+            answer.append(r)
+    
+    print(*answer)
 
-   
- 
- 
- 
+        
+
  
 T = I()
 for _ in range(T):
     solve()
-
-
-
-
-
-
-

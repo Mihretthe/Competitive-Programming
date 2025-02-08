@@ -12,31 +12,33 @@ def S() : return stdin.readline().strip()
 
 def SL() : return list(stdin.readline().strip().split())
 
-from collections import defaultdict
+from collections import defaultdict, deque
 
 def solve():
-    graph = defaultdict(list)
     n = I()
+    graph = defaultdict(list)
+    deck = deque()
 
-    for _ in range(n - 1):
+    for _ in range(n):
         u, v = II()
         graph[v].append(u)
-    init = IL()
-    goal = IL()
-    answer = []
-    stack = [1]
-    level = 1
-    flipped = False
-    deck = []
-    while stack:
-        node = stack.pop()
-        if init[node - 1] != goal[node - 1]:
-            answer.append(node)
-            flipped = True
-            deck.append([level % 2, flipped])
-        level += 1
-        stack.extend(graph[node])
-    print(graph)
+    
+    init = [0] + IL()
+    goal = [0] + IL()
+
+    deck.append((1, False, False))
+
+    while deck:
+        node, parent, grand = deck.popleft()
+
+        for i in graph[node]:
+            pass
+
+
+
+
+    
+
 
 
 

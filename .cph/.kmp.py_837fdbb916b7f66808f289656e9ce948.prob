@@ -1,0 +1,1 @@
+{"name":"Local: kmp","url":"c:\\Users\\hp\\Desktop\\A2SV\\Codeforces\\kmp.py","tests":[{"id":1729788349835,"input":"aaacaaaa","output":"0 1 2 0 1 2 3 3"},{"id":1729788685236,"input":"dsgwadsgz","output":"0 0 0 0 0 1 2 3 0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\hp\\Desktop\\A2SV\\Codeforces\\kmp.py","group":"local","local":true}

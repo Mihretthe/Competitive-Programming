@@ -22,3 +22,7 @@ def solve():
 T = I()
 for _ in range(T):
     solve()
+
+
+
+
