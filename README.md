@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Mihretthe/Competitive-Programming/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/Mihretthe/Competitive-Programming/tree/master/2358-number-of-ways-to-split-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Mihretthe/Competitive-Programming/tree/master/2442-number-of-arithmetic-triplets) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Mihretthe/Competitive-Programming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Mihretthe/Competitive-Programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Mihretthe/Competitive-Programming/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mihretthe/Competitive-Programming/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Mihretthe/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mihretthe/Competitive-Programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Mihretthe/Competitive-Programming/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Mihretthe/Competitive-Programming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Mihretthe/Competitive-Programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mihretthe/Competitive-Programming/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mihretthe/Competitive-Programming/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Mihretthe/Competitive-Programming/tree/master/0023-merge-k-sorted-lists) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mihretthe/Competitive-Programming/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1304-longest-happy-string](https://github.com/Mihretthe/Competitive-Programming/tree/master/1304-longest-happy-string) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Mihretthe/Competitive-Programming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Mihretthe/Competitive-Programming/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Mihretthe/Competitive-Programming/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2868-continuous-subarrays](https://github.com/Mihretthe/Competitive-Programming/tree/master/2868-continuous-subarrays) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mihretthe/Competitive-Programming/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Mihretthe/Competitive-Programming/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Mihretthe/Competitive-Programming/tree/master/2442-number-of-arithmetic-triplets) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Mihretthe/Competitive-Programming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mihretthe/Competitive-Programming/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Mihretthe/Competitive-Programming/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Mihretthe/Competitive-Programming/tree/master/2685-first-completely-painted-row-or-column) |
