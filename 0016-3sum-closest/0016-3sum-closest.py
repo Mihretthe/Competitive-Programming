@@ -1,25 +1,25 @@
 class Solution:
     def threeSumClosest(self, nums: List[int], target: int) -> int:
-        n = len(nums)
-        if n == 3:
-            return sum(nums)
+        # First sort the array, so that we can loop through the array and find the for every element a two sum for that element 
+
         nums.sort()
-        ans = sum(nums[:3])
+        length = len(nums)
+        diff = -inf
+        ans = inf
         
-        for i in range(n):
-            l = i + 1
-            r = n - 1
-            
-            while l < r:                
-                if (nums[i] + nums[l] + nums[r]) == target:                    
-                    return target
-                if abs(target - (nums[i] + nums[l] + nums[r])) < abs(target - ans):
-                    ans =( nums[i] + nums[l] + nums[r])
-                if ( nums[i] + nums[l] + nums[r]) < target:
-                    l += 1
+        for i in range(length):
+            left = i + 1
+            right = length - 1
+            while left < right:
+                total = nums[i] + nums[left] + nums[right]
+                if total == target:
+                    return total
+                if abs(target - total) < abs(target - ans):
+                    ans = total
+                    diff = abs(target - total)
+                if total < target:
+                    left += 1
                 else:
-                    r -= 1
-               
-                    
-                
+                    right -= 1
+
         return ans
