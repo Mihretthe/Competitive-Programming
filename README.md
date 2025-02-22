@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Mihretthe/Competitive-Programming/tree/master/0684-redundant-connection) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mihretthe/Competitive-Programming/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Mihretthe/Competitive-Programming/tree/master/0820-find-eventual-safe-states) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mihretthe/Competitive-Programming/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mihretthe/Competitive-Programming/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mihretthe/Competitive-Programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Mihretthe/Competitive-Programming/tree/master/1396-count-servers-that-communicate) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0722-remove-comments](https://github.com/Mihretthe/Competitive-Programming/tree/master/0722-remove-comments) |
 | [0812-rotate-string](https://github.com/Mihretthe/Competitive-Programming/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Mihretthe/Competitive-Programming/tree/master/0952-word-subsets) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mihretthe/Competitive-Programming/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1250-longest-common-subsequence](https://github.com/Mihretthe/Competitive-Programming/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Mihretthe/Competitive-Programming/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Mihretthe/Competitive-Programming/tree/master/1304-longest-happy-string) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mihretthe/Competitive-Programming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/Mihretthe/Competitive-Programming/tree/master/0572-subtree-of-another-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mihretthe/Competitive-Programming/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mihretthe/Competitive-Programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Mihretthe/Competitive-Programming/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mihretthe/Competitive-Programming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/Mihretthe/Competitive-Programming/tree/master/0572-subtree-of-another-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Mihretthe/Competitive-Programming/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mihretthe/Competitive-Programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Mihretthe/Competitive-Programming/tree/master/2677-cousins-in-binary-tree-ii) |
 ## String Matching
