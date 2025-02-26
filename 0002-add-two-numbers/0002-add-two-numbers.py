@@ -5,32 +5,56 @@
 #         self.next = next
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
-#         string , then revert , int ,add, revert, extend
-        b=list()
-        c=list()
-        a=ListNode(0,None)
-        while l1!=None:
-            b.append(str(l1.val))
-            l1=l1.next
-        while l2!=None:
-            c.append(str(l2.val))
-            l2=l2.next
-        s="".join(b)
-        s=s[::-1]
-        v="".join(c)
-        v=v[::-1]
-        n=int(s)
-        n2=int(v)
-        z=n+n2
-        f=str(z)
-        x=list()
-        x.extend(f)
-        i=0
-        if len(x)<1:
-            return None
-        head=ListNode(x[-1])
-        for i in range(len(x)-1):
-            node=ListNode(x[i],head.next)
-            head.next=node
-        return head
         
+        first = l1
+        second = l2
+        carry = 0
+        last = l1
+        while first and second:
+            first_val = first.val
+            second_val = second.val
+
+            if first_val + second_val + carry > 9:
+                first.val = (first_val + second_val + carry) % 10
+                carry = 1
+            else:
+                first.val += second_val + carry
+                carry = 0
+            last = first
+            first = first.next
+            second = second.next
+        while first:
+            # print(first, carry)    
+            if (first.val + carry) > 9:
+                first.val = (first.val + carry) % 10
+                carry = 1
+            else:
+                first.val += carry
+                carry = 0
+                
+            last = first  
+            first = first.next
+        # print(l1, carry)
+
+        if second:
+            last.next = second
+
+        while second:
+            # print("second")
+            if second.val + carry > 9:
+                second.val = (second.val + carry) % 10
+                carry = 1
+            else:
+                second.val += carry
+                carry = 0
+            last = second
+            second = second.next
+                
+
+        if carry:
+            last.next = ListNode(1)
+            last = last.next
+        
+        
+        
+        return l1
