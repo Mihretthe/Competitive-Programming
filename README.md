@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Mihretthe/Competitive-Programming/tree/master/0002-add-two-numbers) |
 | [0670-maximum-swap](https://github.com/Mihretthe/Competitive-Programming/tree/master/0670-maximum-swap) |
 | [1086-divisor-game](https://github.com/Mihretthe/Competitive-Programming/tree/master/1086-divisor-game) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Mihretthe/Competitive-Programming/tree/master/1477-product-of-the-last-k-numbers) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Mihretthe/Competitive-Programming/tree/master/0002-add-two-numbers) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Mihretthe/Competitive-Programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Simulation
 |  |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Mihretthe/Competitive-Programming/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Mihretthe/Competitive-Programming/tree/master/0023-merge-k-sorted-lists) |
 | [0086-partition-list](https://github.com/Mihretthe/Competitive-Programming/tree/master/0086-partition-list) |
 ## Divide and Conquer
