@@ -1,21 +1,27 @@
 class Solution:
     def findWords(self, words: List[str]) -> List[str]:
-        a="qwertyuiopQWERTYUIOP"
-        d=1
-        b="asdfghjklASDFGHJKL"
-        e=2
-        c="zxcvbnmZXCVBNM"
-        f=3
-        h=[]
-        for i in words:
-            x=set()
-            for j in i:
-                if j in a:
-                    x.add(d)
-                elif j in b:
-                    x.add(e)
-                elif j in c:
-                    x.add(f)
-            if len(x)==1:
-                h.append(i)
-        return h
+        keyboard = ["qwertyuiopQWERTYUIOP", "asdfghjklASDFGHJKL", "zxcvbnmZXCVBNM"]
+
+        answer = []
+
+
+        for word in words:
+            num = -1
+            for letter in word:
+                my_num = -1
+                for i in range(3):
+                    row = keyboard[i]
+                    if letter in row:
+                        my_num = i
+                        if num == -1:
+                            num = i
+                        break
+                if num != my_num:
+                    break
+            else:
+                answer.append(word)
+
+
+        return answer 
+
+
