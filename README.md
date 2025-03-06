@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/Mihretthe/Competitive-Programming/tree/master/2868-continuous-subarrays) |
 | [3034-points-that-intersect-with-cars](https://github.com/Mihretthe/Competitive-Programming/tree/master/3034-points-that-intersect-with-cars) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mihretthe/Competitive-Programming/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3227-find-missing-and-repeated-values](https://github.com/Mihretthe/Competitive-Programming/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Mihretthe/Competitive-Programming/tree/master/3291-find-if-array-can-be-sorted) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Mihretthe/Competitive-Programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3429-special-array-i](https://github.com/Mihretthe/Competitive-Programming/tree/master/3429-special-array-i) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Mihretthe/Competitive-Programming/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Mihretthe/Competitive-Programming/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2716-prime-subtraction-operation](https://github.com/Mihretthe/Competitive-Programming/tree/master/2716-prime-subtraction-operation) |
+| [3227-find-missing-and-repeated-values](https://github.com/Mihretthe/Competitive-Programming/tree/master/3227-find-missing-and-repeated-values) |
 ## Backtracking
 |  |
 | ------- |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/Mihretthe/Competitive-Programming/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Mihretthe/Competitive-Programming/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3034-points-that-intersect-with-cars](https://github.com/Mihretthe/Competitive-Programming/tree/master/3034-points-that-intersect-with-cars) |
+| [3227-find-missing-and-repeated-values](https://github.com/Mihretthe/Competitive-Programming/tree/master/3227-find-missing-and-repeated-values) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Mihretthe/Competitive-Programming/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
 |  |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Mihretthe/Competitive-Programming/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Mihretthe/Competitive-Programming/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mihretthe/Competitive-Programming/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/Mihretthe/Competitive-Programming/tree/master/3227-find-missing-and-repeated-values) |
 ## Brainteaser
 |  |
 | ------- |
