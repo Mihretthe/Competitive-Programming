@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mihretthe/Competitive-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Mihretthe/Competitive-Programming/tree/master/0049-group-anagrams) |
+| [0146-lru-cache](https://github.com/Mihretthe/Competitive-Programming/tree/master/0146-lru-cache) |
 | [0491-non-decreasing-subsequences](https://github.com/Mihretthe/Competitive-Programming/tree/master/0491-non-decreasing-subsequences) |
 | [0500-keyboard-row](https://github.com/Mihretthe/Competitive-Programming/tree/master/0500-keyboard-row) |
 | [0952-word-subsets](https://github.com/Mihretthe/Competitive-Programming/tree/master/0952-word-subsets) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Mihretthe/Competitive-Programming/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Mihretthe/Competitive-Programming/tree/master/0025-reverse-nodes-in-k-group) |
 | [0086-partition-list](https://github.com/Mihretthe/Competitive-Programming/tree/master/0086-partition-list) |
+| [0146-lru-cache](https://github.com/Mihretthe/Competitive-Programming/tree/master/0146-lru-cache) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -413,10 +415,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Mihretthe/Competitive-Programming/tree/master/0146-lru-cache) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mihretthe/Competitive-Programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Mihretthe/Competitive-Programming/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Mihretthe/Competitive-Programming/tree/master/1477-product-of-the-last-k-numbers) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Mihretthe/Competitive-Programming/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
