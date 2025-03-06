@@ -3,6 +3,7 @@ class ListNode:
         self.key = key
         self.val = val
         self.next = None
+        self.prev = None
     
     def __str__(self):
         temp = self.next
@@ -21,27 +22,28 @@ class LRUCache:
         self.hashmap = {}
         self.tail = ListNode()
         self.dummy.next = self.tail
-        self.hashmap['tail'] = [self.tail, self.dummy]
-        
+        self.tail.prev = self.dummy
+
+    def replace(self, node, prev):
+        prev.next = prev.next.next
+        temp = prev.next
+        if temp == self.tail:
+            self.tail.prev = prev 
+        else:
+            temp.prev = prev         
+        previous = self.tail.prev
+        node.next = None
+        previous.next = node
+        node.next = self.tail
+        self.tail.prev = node
+        node.prev = previous  
+
 
     def get(self, key: int) -> int:
         if key in self.hashmap:
-            node, prev = self.hashmap[key]
-            prev.next = prev.next.next
-            temp = prev.next
-            if temp == self.tail:
-                self.hashmap['tail'][1] = prev 
-            else:
-                self.hashmap[temp.key][1] = prev 
-            
-            previous = self.hashmap['tail'][1]
-            node.next = None
-            previous.next = node
-            node.next = self.tail
-            self.hashmap['tail'][1] = node
-            self.hashmap[key] = [node, previous]
-
-           
+            node = self.hashmap[key]   
+            prev = node.prev         
+            self.replace(node, prev)           
             return node.val
         
         return -1
@@ -50,43 +52,27 @@ class LRUCache:
     def put(self, key: int, value: int) -> None:
 
         if key in self.hashmap:
-            node, prev = self.hashmap[key]
+            node = self.hashmap[key]
+            prev = node.prev 
             node.val = value
-            prev.next = prev.next.next
-            temp = prev.next
-            if temp == self.tail:
-                self.hashmap['tail'][1] = prev 
-            else:
-                self.hashmap[temp.key][1] = prev 
-            
-            previous = self.hashmap['tail'][1]
-            node.next = None
-            previous.next = node
-            node.next = self.tail
-            self.hashmap['tail'][1] = node
-            self.hashmap[key] = [node, previous]
-
-            
-            return node.val
+            self.replace(node, prev)            
             
         else:
-            if len(self.hashmap) - 1 == self.capacity:
+            if len(self.hashmap) == self.capacity:
                 node = self.dummy.next
                 nextt = node.next
-                if nextt == self.tail:
-                    self.hashmap['tail'][1] = self.dummy
-                else:
-                    self.hashmap[nextt.key][1] = self.dummy
+                nextt.prev = self.dummy
                 del self.hashmap[node.key]
                 self.dummy.next = self.dummy.next.next
 
             new_node = ListNode(key, value)
-            previous = self.hashmap['tail'][1]
+            previous = self.tail.prev
             new_node.next = None
             previous.next = new_node
             new_node.next = self.tail
-            self.hashmap['tail'][1] = new_node
-            self.hashmap[key] = [new_node, previous]
+            self.tail.prev = new_node
+            new_node.prev = previous
+            self.hashmap[key] = new_node
 
    
         
