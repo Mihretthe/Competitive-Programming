@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Mihretthe/Competitive-Programming/tree/master/0054-spiral-matrix) |
 | [0198-house-robber](https://github.com/Mihretthe/Competitive-Programming/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Mihretthe/Competitive-Programming/tree/master/0300-longest-increasing-subsequence) |
+| [0456-132-pattern](https://github.com/Mihretthe/Competitive-Programming/tree/master/0456-132-pattern) |
 | [0491-non-decreasing-subsequences](https://github.com/Mihretthe/Competitive-Programming/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Mihretthe/Competitive-Programming/tree/master/0494-target-sum) |
 | [0500-keyboard-row](https://github.com/Mihretthe/Competitive-Programming/tree/master/0500-keyboard-row) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Mihretthe/Competitive-Programming/tree/master/0035-search-insert-position) |
 | [0300-longest-increasing-subsequence](https://github.com/Mihretthe/Competitive-Programming/tree/master/0300-longest-increasing-subsequence) |
+| [0456-132-pattern](https://github.com/Mihretthe/Competitive-Programming/tree/master/0456-132-pattern) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mihretthe/Competitive-Programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Mihretthe/Competitive-Programming/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Mihretthe/Competitive-Programming/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Mihretthe/Competitive-Programming/tree/master/0456-132-pattern) |
 | [2868-continuous-subarrays](https://github.com/Mihretthe/Competitive-Programming/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Mihretthe/Competitive-Programming/tree/master/0456-132-pattern) |
 | [0943-sum-of-subarray-minimums](https://github.com/Mihretthe/Competitive-Programming/tree/master/0943-sum-of-subarray-minimums) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mihretthe/Competitive-Programming/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mihretthe/Competitive-Programming/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -391,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Mihretthe/Competitive-Programming/tree/master/0456-132-pattern) |
 | [0943-sum-of-subarray-minimums](https://github.com/Mihretthe/Competitive-Programming/tree/master/0943-sum-of-subarray-minimums) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mihretthe/Competitive-Programming/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Union Find
