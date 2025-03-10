@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mihretthe/Competitive-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mihretthe/Competitive-Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Mihretthe/Competitive-Programming/tree/master/0049-group-anagrams) |
+| [0394-decode-string](https://github.com/Mihretthe/Competitive-Programming/tree/master/0394-decode-string) |
 | [0500-keyboard-row](https://github.com/Mihretthe/Competitive-Programming/tree/master/0500-keyboard-row) |
 | [0680-valid-palindrome-ii](https://github.com/Mihretthe/Competitive-Programming/tree/master/0680-valid-palindrome-ii) |
 | [0722-remove-comments](https://github.com/Mihretthe/Competitive-Programming/tree/master/0722-remove-comments) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mihretthe/Competitive-Programming/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Mihretthe/Competitive-Programming/tree/master/0025-reverse-nodes-in-k-group) |
+| [0394-decode-string](https://github.com/Mihretthe/Competitive-Programming/tree/master/0394-decode-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Mihretthe/Competitive-Programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Simulation
 |  |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Mihretthe/Competitive-Programming/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/Mihretthe/Competitive-Programming/tree/master/0456-132-pattern) |
 | [0943-sum-of-subarray-minimums](https://github.com/Mihretthe/Competitive-Programming/tree/master/0943-sum-of-subarray-minimums) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mihretthe/Competitive-Programming/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
