@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mihretthe/Competitive-Programming/tree/master/0002-add-two-numbers) |
+| [0172-factorial-trailing-zeroes](https://github.com/Mihretthe/Competitive-Programming/tree/master/0172-factorial-trailing-zeroes) |
 | [0670-maximum-swap](https://github.com/Mihretthe/Competitive-Programming/tree/master/0670-maximum-swap) |
 | [1018-largest-perimeter-triangle](https://github.com/Mihretthe/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/Mihretthe/Competitive-Programming/tree/master/1086-divisor-game) |
