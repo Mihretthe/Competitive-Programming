@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Mihretthe/Competitive-Programming/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/Mihretthe/Competitive-Programming/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Mihretthe/Competitive-Programming/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Mihretthe/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Mihretthe/Competitive-Programming/tree/master/0054-spiral-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mihretthe/Competitive-Programming/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mihretthe/Competitive-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/Mihretthe/Competitive-Programming/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Mihretthe/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mihretthe/Competitive-Programming/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0146-lru-cache](https://github.com/Mihretthe/Competitive-Programming/tree/master/0146-lru-cache) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Mihretthe/Competitive-Programming/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Mihretthe/Competitive-Programming/tree/master/0054-spiral-matrix) |
 | [1331-path-with-maximum-gold](https://github.com/Mihretthe/Competitive-Programming/tree/master/1331-path-with-maximum-gold) |
 | [1396-count-servers-that-communicate](https://github.com/Mihretthe/Competitive-Programming/tree/master/1396-count-servers-that-communicate) |
