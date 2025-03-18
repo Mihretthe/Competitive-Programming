@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/Mihretthe/Competitive-Programming/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Mihretthe/Competitive-Programming/tree/master/0300-longest-increasing-subsequence) |
+| [0486-predict-the-winner](https://github.com/Mihretthe/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Mihretthe/Competitive-Programming/tree/master/0494-target-sum) |
 | [0688-knight-probability-in-chessboard](https://github.com/Mihretthe/Competitive-Programming/tree/master/0688-knight-probability-in-chessboard) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mihretthe/Competitive-Programming/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Mihretthe/Competitive-Programming/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Mihretthe/Competitive-Programming/tree/master/0300-longest-increasing-subsequence) |
 | [0456-132-pattern](https://github.com/Mihretthe/Competitive-Programming/tree/master/0456-132-pattern) |
+| [0486-predict-the-winner](https://github.com/Mihretthe/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/Mihretthe/Competitive-Programming/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Mihretthe/Competitive-Programming/tree/master/0494-target-sum) |
 | [0500-keyboard-row](https://github.com/Mihretthe/Competitive-Programming/tree/master/0500-keyboard-row) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mihretthe/Competitive-Programming/tree/master/0002-add-two-numbers) |
 | [0172-factorial-trailing-zeroes](https://github.com/Mihretthe/Competitive-Programming/tree/master/0172-factorial-trailing-zeroes) |
+| [0486-predict-the-winner](https://github.com/Mihretthe/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [0670-maximum-swap](https://github.com/Mihretthe/Competitive-Programming/tree/master/0670-maximum-swap) |
 | [1018-largest-perimeter-triangle](https://github.com/Mihretthe/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/Mihretthe/Competitive-Programming/tree/master/1086-divisor-game) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Mihretthe/Competitive-Programming/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Mihretthe/Competitive-Programming/tree/master/0025-reverse-nodes-in-k-group) |
 | [0394-decode-string](https://github.com/Mihretthe/Competitive-Programming/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/Mihretthe/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Mihretthe/Competitive-Programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Simulation
 |  |
@@ -384,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Mihretthe/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [1086-divisor-game](https://github.com/Mihretthe/Competitive-Programming/tree/master/1086-divisor-game) |
 ## Queue
 |  |
