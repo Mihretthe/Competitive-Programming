@@ -1,9 +1,18 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        a=list()
-        for i in range(len(nums)):
-            for j in range(len(nums)):
-                if nums[i]+nums[j]==target and i!=j:
-                    return [i,j]
-                    
-        
+
+        # initialize a hashmap, to store the indices, also to look up a complement
+
+        hashmap = {}
+
+        length = len(nums)
+
+        for i in range(length):
+            num = nums[i]
+            complement = target - num # calculating the complement
+
+            # the condition to return the answer
+            if complement in hashmap:
+                return [i, hashmap[complement]]
+
+            hashmap[num] = i
