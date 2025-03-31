@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mihretthe/Competitive-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Mihretthe/Competitive-Programming/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mihretthe/Competitive-Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Mihretthe/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0394-decode-string](https://github.com/Mihretthe/Competitive-Programming/tree/master/0394-decode-string) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mihretthe/Competitive-Programming/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/Mihretthe/Competitive-Programming/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/Mihretthe/Competitive-Programming/tree/master/0456-132-pattern) |
 | [0943-sum-of-subarray-minimums](https://github.com/Mihretthe/Competitive-Programming/tree/master/0943-sum-of-subarray-minimums) |
