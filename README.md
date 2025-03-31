@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Mihretthe/Competitive-Programming/tree/master/0952-word-subsets) |
 | [1018-largest-perimeter-triangle](https://github.com/Mihretthe/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/Mihretthe/Competitive-Programming/tree/master/1025-minimum-cost-for-tickets) |
+| [1232-sum-of-mutated-array-closest-to-target](https://github.com/Mihretthe/Competitive-Programming/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1331-path-with-maximum-gold](https://github.com/Mihretthe/Competitive-Programming/tree/master/1331-path-with-maximum-gold) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Mihretthe/Competitive-Programming/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/Mihretthe/Competitive-Programming/tree/master/1364-tuple-with-same-product) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Mihretthe/Competitive-Programming/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Mihretthe/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [1018-largest-perimeter-triangle](https://github.com/Mihretthe/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
+| [1232-sum-of-mutated-array-closest-to-target](https://github.com/Mihretthe/Competitive-Programming/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mihretthe/Competitive-Programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Mihretthe/Competitive-Programming/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Mihretthe/Competitive-Programming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Mihretthe/Competitive-Programming/tree/master/0035-search-insert-position) |
 | [0300-longest-increasing-subsequence](https://github.com/Mihretthe/Competitive-Programming/tree/master/0300-longest-increasing-subsequence) |
 | [0456-132-pattern](https://github.com/Mihretthe/Competitive-Programming/tree/master/0456-132-pattern) |
+| [1232-sum-of-mutated-array-closest-to-target](https://github.com/Mihretthe/Competitive-Programming/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mihretthe/Competitive-Programming/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Mihretthe/Competitive-Programming/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Mihretthe/Competitive-Programming/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
