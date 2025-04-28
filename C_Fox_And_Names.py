@@ -50,7 +50,7 @@ def solve():
         print("Impossible")
         return
             
-    # print(graph)
+    print(graph)
     
     deck = deque()
     
